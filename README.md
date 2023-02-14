@@ -1,6 +1,6 @@
 React ATM-Card Link:-
 
-I made a ATM Card using Recat that have a form section first you need to fill this form and submit it then your card is ready See this Output ..............
+I create a ATM Card using React that have a form section first you need to fill this form and submit it then your card is ready See this Output ..............
 
 Deploye Link: https://sage-froyo-6191e5.netlify.app/
 
